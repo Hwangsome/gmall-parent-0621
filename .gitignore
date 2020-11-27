@@ -8,8 +8,6 @@ target/
 /**/.classpath
 **/rebel.xml
 /**/.externalToolBuilders/
-/**/.yml
-application.properties
 rebel.xml
 test/
 
